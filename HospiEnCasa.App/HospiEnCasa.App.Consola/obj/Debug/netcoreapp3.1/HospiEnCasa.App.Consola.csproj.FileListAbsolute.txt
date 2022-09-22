@@ -1,0 +1,13 @@
+C:\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.exe
+C:\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.deps.json
+C:\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.runtimeconfig.json
+C:\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.runtimeconfig.dev.json
+C:\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.dll
+C:\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.pdb
+C:\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.csprojAssemblyReference.cache
+C:\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.AssemblyInfoInputs.cache
+C:\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.AssemblyInfo.cs
+C:\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.csproj.CoreCompileInputs.cache
+C:\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.dll
+C:\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.pdb
+C:\Ciclo 3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.genruntimeconfig.cache
